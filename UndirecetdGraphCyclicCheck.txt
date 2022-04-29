@@ -1,3 +1,7 @@
+## DFS method use
+## Check the undirected graph is cyclic or not
+
+
 bool iscycle(int src , vector<vector<int>> &adj, vector<bool> &visited,parent)
 {
 	visited[src[] = true;
