@@ -1,3 +1,7 @@
+## Find number of Islands ## DFS method use
+
+
+
 class Solution{
 public:
 	void solve(vector<vector<char>> &grid,int r,int c,int n,int m)
